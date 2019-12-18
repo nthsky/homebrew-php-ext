@@ -12,7 +12,7 @@ _Experimental_: I have a new tap for select pecl packages, as the `pecl` command
 Run
 
 ```
-brew tap kabel/php-ext
+brew tap nthsky/php-ext
 ```
 
 followed by
